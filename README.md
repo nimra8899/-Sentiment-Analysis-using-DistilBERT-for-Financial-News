@@ -1,6 +1,4 @@
 # -Sentiment-Analysis-using-DistilBERT-for-Financial-News
-# Sentiment Analysis using DistilBERT for Twitter Financial News
-
 This project performs sentiment analysis on financial-news related tweets using the DistilBERT model.
 
 ## Features
